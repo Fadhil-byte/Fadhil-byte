@@ -68,12 +68,19 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fadhil-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fadhil-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Statistik Aktivitas & Ringkasan -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Fadhil-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fadhil-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 
   <br/><br/>
 
+  <!-- GitHub Streak (Sudah Berfungsi Normal) -->
   <img src="https://streak-stats.demolab.com/?user=Fadhil-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- GitHub Profile Trophy (Tambahan visual piala pencapaian) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Fadhil-byte&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 
 </div>
 
