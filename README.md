@@ -2,10 +2,15 @@
 
 # Halo, Saya Fadhil Danendra Hadie Brata 👋
 
-### Fullstack Developer | Open Source Enthusiast
+<!-- Efek Teks Mengetik Otomatis (Typing SVG) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2D8&center=true&vCenter=true&width=450&lines=Fullstack+Developer;React+%26+Next.js+Enthusiast;Open+Source+Contributor;Open+to+Collaboration" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/FadhilDanendra](https://www.linkedin.com/in/fadhil-danendra-660426412/)" target="_blank">
+  <a href="https://www.linkedin.com/in/fadhil-danendra-660426412/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://fadhil-byte.github.io/PortoFad/" target="_blank">
@@ -15,6 +20,11 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<!-- Penghitung Pengunjung Profil (Profile Views Counter) -->
+<img src="https://komarev.com/ghpvc/?username=Fadhil-byte&color=3178C6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/><br/>
 
 <!-- Header Banner Animasi -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Building%20impactful%20software&fontSize=28&animation=fadeIn" width="100%" alt="Header Banner" />
@@ -57,7 +67,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 </div>
@@ -74,12 +83,12 @@
 
   <br/><br/>
 
-  <!-- GitHub Streak (Sudah Berfungsi Normal) -->
+  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com/?user=Fadhil-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <!-- GitHub Profile Trophy (Tambahan visual piala pencapaian) -->
+  <!-- GitHub Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=Fadhil-byte&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 
 </div>
