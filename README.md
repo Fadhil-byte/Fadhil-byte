@@ -4,7 +4,7 @@
   
   **Fullstack Developer | Open Source Enthusiast**
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/FadhilDanendra)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/FadhilDanendra](https://www.linkedin.com/in/fadhil-danendra-660426412/))
   [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://fadhil-byte.github.io/PortoFad/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhilndra04@gmail.com)
 
