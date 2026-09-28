@@ -2,10 +2,10 @@
 
   # Halo, Saya Fadhil Danendra Hadie Brata 👋
   
-  **[Peran / Spesialisasi Anda, Fullstack Developer | Open Source Enthusiast]**
+  **Fullstack Developer | Open Source Enthusiast**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/FadhilDanendra)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Fadhil-byte/PortoFad/deployments/github-pages)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://fadhil-byte.github.io/PortoFad/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhilndra04@gmail.com)
 
   <!-- Banner Animasi Dinamis -->
@@ -17,10 +17,10 @@
 
 ### 🚀 Tentang Saya
 
-- 🔭 Saat ini sedang mengerjakan **[Proyek yang sedang dibuat / Proyek Utama]**
-- 🌱 Sedang mendalami dan mempelajari **[Teknologi baru yang dipelajari, misal: Go, Kubernetes, System Design]**
-- 💬 Tanyakan saya tentang **[Keahlian utama, misal: React, Node.js, REST API, Git]**
-- ⚡ Fakta unik: **[Hobi atau kutipan singkat Anda]**
+- 🔭 Saat ini sedang mengerjakan **proyek web & pengembangan portofolio**
+- 🌱 Sedang mendalami dan mempelajari **arsitektur aplikasi modern & cloud deployment**
+- 💬 Tanyakan saya tentang **React, JavaScript, Web Development, & Git**
+- ⚡ Suka mengeksplorasi teknologi baru dan membangun solusi software yang bermanfaat
 
 ---
 
@@ -57,12 +57,12 @@
 ### 📊 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fadhil-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhil-byte&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=[USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Fadhil-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
